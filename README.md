@@ -21,7 +21,8 @@ experiment:
 lib:
 - contains object functions and some operations
   
-solver
+solver:
+- defines DRSGD/DRSGT/variable sampling algorithms
 
 ## Instructions
 1. Open the folder "experiment" to choose the experiment;
